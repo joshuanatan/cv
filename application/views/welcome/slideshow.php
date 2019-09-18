@@ -7,7 +7,7 @@
                         <div class="slider_text text-center">
                             <h3>JOSHUA NATAN WIJAYA</h3>
                             <p>ANALYST &middot; DEVELOPER</p>
-                            <a href="#project" class="boxed-btn2" style = "color:white">See Our Projects</a>
+                            <a href="#project" class="boxed-btn2" style = "color:white">See My Projects</a>
                         </div>
                     </div>
                 </div>
