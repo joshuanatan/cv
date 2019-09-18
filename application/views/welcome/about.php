@@ -19,7 +19,7 @@
                 <div class="section_title">
                     <span class="sub_heading2">Personal Information</span>
                     <h4>Joshua Natan</h4>
-                    <p>Joshua Natan Wijaya is my fullname, people usually call me 'JN'. My big dream is to create a company which experts in system implementation and integration. I've learnt to </p>
+                    <p style = "text-align:justify; text-align-last:left ">Joshua Natan Wijaya is my fullname, people usually call me 'JN'. My ultimate goal is to be capable to assists enterprises in creating an efficient business process thus those enterprises can grow rapidly. I have started my journey by doing some small projects and try to establish a proper and efficient information system for several companies. One of my sources of hapiness is to teach people. I like to listen and to share my experience, so feel free to discuss things with me! :)</p>
                 </div>
             </div>
         </div>

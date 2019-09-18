@@ -68,7 +68,7 @@
                             <img src="<?php echo base_url();?>assets/img/project/default.png" alt="">
                         </div>
                         <h3>TIM</h3>
-                        <a href = "http://hasansutanto.org" target = "_blank">TIM Ikhals Mengabdi</a><br/><br/>
+                        <a href = "http://hasansutanto.org" target = "_blank">TIM Ikhlas Mengabdi</a><br/><br/>
                         <p style = "text-align:justify; text-justify: inner-word; text-align-last: center">
                             Develop a company profile for TIM Ikhlas Mengabdi. This website contains 3 language
                         </p>
