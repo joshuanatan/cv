@@ -52,13 +52,13 @@
             <div class="col-xl-5 offset-xl-1 col-md-6">
                 <div class="section_title">
                     <span class="sub_heading2">Education</span>
+                    <h4>Pelita Harapan Univeristy</h4>
+                    <h5>University / 2016-present</h5>
+                    <p style = "text-align:justify;text-justify: inter-word;">I take information system major in university. In university, I learn how to teach people, explaining complex things to simplier form. I learn some practices in professional developing system. I reach 3.79 GPA. I also work on some projects in university start from being a web-based company profile developer until being an analyst and developer for information system in company</p>
                     <h4>SMAK 1 Penabur</h4>
                     <h5>High School / 2013-2016</h5>
                     <p style = "text-align:justify;text-justify: inter-word;">For me, high school was my 'training camp'. I took math-science major in high school. I learnt how to survive in an environment that did not suit me. My experience in high school makes me strong and always be optimistic even in the worst condition I face.</p>
 
-                    <h4>Pelita Harapan Univeristy</h4>
-                    <h5>University / 2016-present</h5>
-                    <p style = "text-align:justify;text-justify: inter-word;">I take information system major in university. In university, I learn how to teach people, explaining complex things to simplier form. I learn some practices in professional developing system. I reach 3.79 GPA. I also work on some projects in university start from being a web-based company profile developer until being an analyst and developer for information system in company</p>
                 </div>
             </div>
         </div>
