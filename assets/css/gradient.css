@@ -1,0 +1,29 @@
+.slideshowGradient{
+    background: linear-gradient(270deg, #03002e, #0068a8, #80afcb);
+    background-size: 600% 600%;
+
+    -webkit-animation: slideshowGradient 9s ease infinite;
+    -moz-animation: slideshowGradient 9s ease infinite;
+    -o-animation: slideshowGradient 9s ease infinite;
+    animation: slideshowGradient 9s ease infinite;
+}
+@-webkit-keyframes slideshowGradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes slideshowGradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes slideshowGradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes slideshowGradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
