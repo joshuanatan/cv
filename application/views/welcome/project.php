@@ -19,7 +19,6 @@
                             <img src="<?php echo base_url();?>assets/img/project/default.png" alt="">
                         </div>
                         <h3>PT LEITER INDONESIA</h3>
-                        <a href = "http://leiter-crm.com" target = "_blank">LEITER CRM</a><br/><br/>
                         <p style = "text-align:justify; text-justify: inner-word; text-align-last: center">
                             Leiter CRM is a made up name for PT LEITER Indonesia backbone information system. It contains dashboard, order processing, finance, KPI, and reporting system
                         </p>
@@ -31,7 +30,6 @@
                             <img src="<?php echo base_url();?>assets/img/project/default.png" alt="">
                         </div>
                         <h3>UPH</h3>
-                        <a href = "http://seragam.uph.edu" target = "_blank">STUDENT UNIFORM ORDERING SYSTEM</a><br/><br/>
                         <p style = "text-align:justify; text-justify: inner-word; text-align-last: center">
                             Enhancing their efficiency in ordering student uniform by involving all stakeholders in this platform
                         </p>
@@ -43,7 +41,6 @@
                             <img src="<?php echo base_url();?>assets/img/project/default.png" alt="">
                         </div>
                         <h3>Sound of Story</h3>
-                        <a href = "http://soundofstory.id" target = "_blank">Sound of Story</a><br/><br/>
                         <p style = "text-align:justify; text-justify: inner-word; text-align-last: center">
                             Sound of Story is a platform for story telling. Visitors can listen stories which are brought by the owner and its creator.
                         </p>
@@ -56,7 +53,6 @@
                             <img src="<?php echo base_url();?>assets/img/project/default.png" alt="">
                         </div>
                         <h3>T&S INTERNATIONAL</h3>
-                        <a href = "http://tnsgruppe.com" target = "_blank">T&S INTERNATIONAL GROUP</a><br/><br/>
                         <p style = "text-align:justify; text-justify: inner-word; text-align-last: center">
                             Develop a company profile for T&S INTERNATIONAL GROUP. This website contains 4 language
                         </p>
@@ -68,7 +64,6 @@
                             <img src="<?php echo base_url();?>assets/img/project/default.png" alt="">
                         </div>
                         <h3>TIM</h3>
-                        <a href = "http://hasansutanto.org" target = "_blank">TIM Ikhlas Mengabdi</a><br/><br/>
                         <p style = "text-align:justify; text-justify: inner-word; text-align-last: center">
                             Develop a company profile for TIM Ikhlas Mengabdi. This website contains 3 language
                         </p>
